@@ -5,7 +5,7 @@ body {
     align-items: center;
 }
 
-div{
+.divisoria{
 border-top: 3px solid #E559F9;
 width: 100px;
 }
@@ -58,4 +58,10 @@ img {
         font-weight: bold;
         border-radius: 4px;
         border: 1px solid #ccc;
+      }
+
+      .tabela-ceps{
+        margin-top: 40px;
+        width: 500px;
+        text-align: center;
       }
